@@ -1,7 +1,6 @@
 # ToDo - 待办事项
 
-1. 应用截图
+## 应用截
+![main](https://github.com/Joker-Runner/ToDo/blob/master/resourse/main.jpg)
 
-![main](https://github.com/Joker-Runner/ToDo/blob/master/resource/main.jpg)
-
-![menu](https://github.com/Joker-Runner/ToDo/blob/master/resource/menu.jpg)
+![menu](https://github.com/Joker-Runner/ToDo/blob/master/resourse/menu.jpg)
