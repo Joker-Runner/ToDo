@@ -59,13 +59,13 @@ public class SettingActivity extends AppCompatActivity {
                         }
                     }
                 });
-                builder.setPositiveButton("取消", new DialogInterface.OnClickListener() {
+                builder.setNegativeButton("取消", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
                         //点击取消什么事都不做
                     }
                 });
-                builder.setNegativeButton("确定", new DialogInterface.OnClickListener() {
+                builder.setPositiveButton("确定", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
                         editor.putInt(Constant.DEFAULT_LABEL_ID_SETTING, setDefaultLabel);

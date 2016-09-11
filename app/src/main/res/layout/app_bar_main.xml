@@ -17,7 +17,7 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:background="@color/colorSpringGreen"
+            android:background="@color/colorPrimary"
             app:popupTheme="@style/AppTheme.PopupOverlay" />
 
     </android.support.design.widget.AppBarLayout>
@@ -35,7 +35,7 @@
         android:layout_gravity="bottom|end"
         android:layout_marginBottom="@dimen/fab_margin"
         android:layout_marginRight="@dimen/fab_margin"
-        fab:fab_addButtonColorNormal="@color/colorSpringGreen"
+        fab:fab_addButtonColorNormal="@color/colorAccent"
         fab:fab_icon="@drawable/ic_add"
         fab:fab_labelStyle="@style/menu_labels_style"
         fab:fab_labelsPosition="left">
@@ -44,7 +44,7 @@
             android:id="@+id/fab_2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            fab:fab_colorNormal="@color/colorSpringGreen"
+            fab:fab_colorNormal="@color/colorAccent"
             fab:fab_icon="@drawable/ic_menu_camera"
             fab:fab_size="mini" />
 
@@ -52,7 +52,7 @@
             android:id="@+id/fab_1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            fab:fab_colorNormal="@color/colorSpringGreen"
+            fab:fab_colorNormal="@color/colorAccent"
             fab:fab_icon="@drawable/ic_mode_edit_white"
             fab:fab_size="mini" />
 
