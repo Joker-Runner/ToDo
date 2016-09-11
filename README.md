@@ -2,6 +2,6 @@
 
 1. 应用截图
 
-![main](https://github.com/wangdan/AisenWeibo/raw/master/resource/main.jpg)
+![main](https://github.com/Joker-Runner/ToDo/blob/master/resource/main.jpg)
 
-![menu](https://github.com/wangdan/AisenWeibo/raw/master/resource/menu.jpg)
+![menu](https://github.com/Joker-Runner/ToDo/blob/master/resource/menu.jpg)
